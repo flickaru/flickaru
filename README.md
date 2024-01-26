@@ -1,4 +1,5 @@
-### Hi there 👋
+### hello.
+i make websites, i'm currently learning vue.js.
 
 <!--
 **flickaru/flickaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
