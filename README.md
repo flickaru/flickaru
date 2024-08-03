@@ -1,5 +1,5 @@
-### hello.
-i make websites, i'm currently learning vue.js.
+### Hello!
+I make websites, i'm currently learning Python, and practicing HTML+CSS.
 ## Statistics
 [![flickaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=flickaru&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
